@@ -26,6 +26,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [MonoDevelop.ResXEdito](https://github.com/Therzok/MonoDevelop.ResXEditor)r: MonoDevelop add-in which enables editing of ResX files with a table interface.
 - [monodevelop-task-runner-addin](https://github.com/mrward/monodevelop-task-runner-addin): Provides a Task Runner Explorer for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-template-creator-addin](https://github.com/mrward/monodevelop-template-creator-addin): Template creator for MonoDevelop and Visual Studio for Mac.
+- [MonoDevelop.Xwt](https://github.com/sevoku/MonoDevelop.Xwt): Xamarin Studio / MonoDevelop addin for the Xwt cross-platform UI toolkit.
 - [ShowInGithub](https://github.com/slluis/ShowInGithub): Add-in for MonoDevelop which can be used to jump to a source code line in Github.
 - [vsmacdeepclean](https://github.com/yuv4ik/vsmacdeepclean): Is a Visual Studio for macOS add-in / extension that let you easily clean projects, NuGet, Xamarin and VS cache without leaving the IDE.
 - [VS4Mac.SolutionName](https://github.com/DreamTeamMobile/VS4Mac.SolutionName): Extension for Visual Studio for Mac to show currently opened solution.
