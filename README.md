@@ -28,11 +28,16 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [monodevelop-template-creator-addin](https://github.com/mrward/monodevelop-template-creator-addin): Template creator for MonoDevelop and Visual Studio for Mac.
 - [MonoDevelop.Xwt](https://github.com/sevoku/MonoDevelop.Xwt): Xamarin Studio / MonoDevelop addin for the Xwt cross-platform UI toolkit.
 - [ShowInGithub](https://github.com/slluis/ShowInGithub): Add-in for MonoDevelop which can be used to jump to a source code line in Github.
+- [Visual-Studio-for-Mac-ResxEditor](https://github.com/jzeferino/Visual-Studio-for-Mac-ResxEditor): Resx editor for Visual Studio for Mac / Monodevelop.
 - [vsmacdeepclean](https://github.com/yuv4ik/vsmacdeepclean): Is a Visual Studio for macOS add-in / extension that let you easily clean projects, NuGet, Xamarin and VS cache without leaving the IDE.
 - [VS4Mac.SolutionName](https://github.com/DreamTeamMobile/VS4Mac.SolutionName): Extension for Visual Studio for Mac to show currently opened solution.
 - [XamarinStudio.RedthsAddin](https://github.com/Redth/XamarinStudio.RedthsAddin): Extensions for MonoDevelop/Xamarin Studio to improve productivity. Obliterate Output Paths Nukes your solution/project IntermediateOutputPath and OutputDirectory folders to completely clean it out.
 - [XAMLator](https://github.com/ylatuya/XAMLator): Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!.
 - [XCodeCleaner.Addin](https://github.com/g0rdan/XCodeCleaner.Addin): The plugin for Visual Studio for Mac. It helps clean Xcode cache folders directly from vs4mac.
+
+## Tools
+
+- [MonoDevelop.Mac.Debug](https://github.com/netonjm/MonoDevelop.Mac.Debug): A set of debugging tools to help track down Cocoa issues related to first responders and visual tree layout.
 
 ## Others
 
