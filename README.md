@@ -17,6 +17,9 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
 - [Mutatio](https://github.com/yuv4ik/Mutatio): Visual Studio for Mac add-in/extension for converting old PCLs to .NET Standard 2.0 targeting projects automatically.
 - [monodevelop-addin-mpack-extractor](https://github.com/mrward/monodevelop-addin-mpack-extractor): Simple console app that downloads an .mpack file (zip file) and extracts it to a directory.
+- [monodevelop-cake-task-runner](https://github.com/mrward/monodevelop-cake-task-runner): Provides a Cake Task Runner for MonoDevelop and Visual Studio for Mac.
+- [monodevelop-grunt-task-runner](https://github.com/mrward/monodevelop-grunt-task-runner): Provides a Grunt Task Runner for MonoDevelop and Visual Studio for Mac.
+- [monodevelop-gulp-task-runner](https://github.com/mrward/monodevelop-gulp-task-runner): Provides a Gulp Task Runner for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-json-addin](https://github.com/mrward/monodevelop-json-addin): JSON editor addin for MonoDevelop.
 - [monodevelop-log-monitor](https://github.com/mrward/monodevelop-log-monitor): Monitors errors logged to the IDE log.
 - [MonoDevelop.MSBuildEditor](https://github.com/mhutch/MonoDevelop.MSBuildEditor): Improved MSBuild editing support.
@@ -37,6 +40,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 
 ## Tools
 
+- [MonoDevelop.Analyzers](https://github.com/Therzok/MonoDevelop.Analyzers): Set of analyzers that can be used when working on MonoDevelop (and its dependencies).
 - [MonoDevelop.Mac.Debug](https://github.com/netonjm/MonoDevelop.Mac.Debug): A set of debugging tools to help track down Cocoa issues related to first responders and visual tree layout.
 
 ## Others
