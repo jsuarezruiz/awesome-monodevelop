@@ -26,6 +26,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [monodevelop-nuget-extensions](https://github.com/mrward/monodevelop-nuget-extensions): Adds some extra features to the NuGet addin that are not currently built-in. These features are experimental, subject to change, removal.
 - [monodevelop-paket-addin](https://github.com/mrward/monodevelop-paket-addin): Paket addin for MonoDevelop, Xamarin Studio and Visual Studio for Mac.
 - [monodevelop-path-env-variable-addin](https://github.com/mrward/monodevelop-path-env-variable-addin): Provides a way to define a custom PATH environment variable for MonoDevelop.
+- [monodevelop-powershell-addin](https://github.com/mrward/monodevelop-powershell-addin): Provides PowerShell support for MonoDevelop.
 - [MonoDevelop.ResXEdito](https://github.com/Therzok/MonoDevelop.ResXEditor)r: MonoDevelop add-in which enables editing of ResX files with a table interface.
 - [monodevelop-task-runner-addin](https://github.com/mrward/monodevelop-task-runner-addin): Provides a Task Runner Explorer for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-template-creator-addin](https://github.com/mrward/monodevelop-template-creator-addin): Template creator for MonoDevelop and Visual Studio for Mac.
@@ -45,4 +46,5 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 
 ## Others
 
+- [monodevelop-addins](https://github.com/mrward/monodevelop-addins): Hosts addins for MonoDevelop and Visual Studio for Mac.
 - [md-website](https://github.com/mono/md-website): This repository contains the files used for generating the MonoDevelop website.
