@@ -8,6 +8,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 
 - [monodevelop](https://github.com/mono/monodevelop): This repository contains the files used for generating the MonoDevelop website.
 - [MonoDevelop.AddinMaker](https://github.com/mhutch/MonoDevelop.AddinMaker): Extension to make it easier to create Visual Studio for Mac / MonoDevelop extensions.
+- [MonoDevelop.Sdk](https://github.com/KirillOsenkov/MonoDevelop.Sdk): A set of MonoDevelop reference assemblies for AddIn authors to reference during the build.
 
 ## Addins
 
