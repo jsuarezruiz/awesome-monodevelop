@@ -42,7 +42,11 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [XAMLator](https://github.com/ylatuya/XAMLator): Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!.
 - [XCodeCleaner.Addin](https://github.com/g0rdan/XCodeCleaner.Addin): The plugin for Visual Studio for Mac. It helps clean Xcode cache folders directly from vs4mac.
 
-# Samples
+## Project Templates
+
+- [weissdigital.xamarin.addins.mvxcontentpage](https://github.com/rogerwcpt/weissdigital.xamarin.addins.mvxcontentpage): Creates a Forms MvxContentPage with a CodeBehind class.
+
+## Samples
 
 - [vs-xplat-extensibility-samples](https://github.com/gundermanc/vs-xplat-extensibility-samples): Unified extensibility samples that work on Visual Studio for Windows and Visual Studio for Mac.
 
