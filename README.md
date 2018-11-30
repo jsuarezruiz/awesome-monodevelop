@@ -50,6 +50,10 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 
 - [vs-xplat-extensibility-samples](https://github.com/gundermanc/vs-xplat-extensibility-samples): Unified extensibility samples that work on Visual Studio for Windows and Visual Studio for Mac.
 
+## Snippets 
+
+- [vsmac_code_snippets](https://github.com/yuv4ik/vsmac_code_snippets): Collection of useful code snippets (shortcuts) to reduce the amount of boilerplate code typing.
+
 ## Tools
 
 - [MonoDevelop.Analyzers](https://github.com/Therzok/MonoDevelop.Analyzers): Set of analyzers that can be used when working on MonoDevelop (and its dependencies).
