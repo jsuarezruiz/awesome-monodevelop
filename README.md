@@ -37,6 +37,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [ShowInGithub](https://github.com/slluis/ShowInGithub): Add-in for MonoDevelop which can be used to jump to a source code line in Github.
 - [Visual-Studio-for-Mac-ResxEditor](https://github.com/jzeferino/Visual-Studio-for-Mac-ResxEditor): Resx editor for Visual Studio for Mac / Monodevelop.
 - [vsmacdeepclean](https://github.com/yuv4ik/vsmacdeepclean): Is a Visual Studio for macOS add-in / extension that let you easily clean projects, NuGet, Xamarin and VS cache without leaving the IDE.
+- [VSMac-AssetManager](https://github.com/ademanuele/VSMac-AssetManager): A Visual Studio for Mac extension for importing/removing image assets from Xamarin.Android and Xamarin.iOS projects. 
 - [VSMac-ClassDiagram](https://github.com/ademanuele/VSMac-ClassDiagram): A Visual Studio for Mac extension that provides an interactive class diagram for loaded solutions.
 - [VSMac-CodeDistribution](https://github.com/ademanuele/VSMac-CodeDistribution): A Visual Studio for Mac extension that breaks down how code is distributed between projects in a solution. 
 - [VSMac-CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage): A Visual Studio for Mac code coverage extension. 
