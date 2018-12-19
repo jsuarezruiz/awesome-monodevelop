@@ -37,6 +37,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [ShowInGithub](https://github.com/slluis/ShowInGithub): Add-in for MonoDevelop which can be used to jump to a source code line in Github.
 - [Visual-Studio-for-Mac-ResxEditor](https://github.com/jzeferino/Visual-Studio-for-Mac-ResxEditor): Resx editor for Visual Studio for Mac / Monodevelop.
 - [vsmacdeepclean](https://github.com/yuv4ik/vsmacdeepclean): Is a Visual Studio for macOS add-in / extension that let you easily clean projects, NuGet, Xamarin and VS cache without leaving the IDE.
+- [VSMac-ClassDiagram](https://github.com/ademanuele/VSMac-ClassDiagram): A Visual Studio for Mac extension that provides an interactive class diagram for loaded solutions.
 - [VS4Mac.SolutionName](https://github.com/DreamTeamMobile/VS4Mac.SolutionName): Extension for Visual Studio for Mac to show currently opened solution.
 - [XamarinStudio.RedthsAddin](https://github.com/Redth/XamarinStudio.RedthsAddin): Extensions for MonoDevelop/Xamarin Studio to improve productivity. Obliterate Output Paths Nukes your solution/project IntermediateOutputPath and OutputDirectory folders to completely clean it out.
 - [XAMLator](https://github.com/ylatuya/XAMLator): Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!.
