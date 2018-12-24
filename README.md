@@ -23,6 +23,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [monodevelop-grunt-task-runner](https://github.com/mrward/monodevelop-grunt-task-runner): Provides a Grunt Task Runner for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-gulp-task-runner](https://github.com/mrward/monodevelop-gulp-task-runner): Provides a Gulp Task Runner for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-json-addin](https://github.com/mrward/monodevelop-json-addin): JSON editor addin for MonoDevelop.
+- [monodevelop-language-server-addin](https://github.com/mrward/monodevelop-language-server-addin): Language Server Protocol support for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-log-monitor](https://github.com/mrward/monodevelop-log-monitor): Monitors errors logged to the IDE log.
 - [MonoDevelop.MicroFramework](https://github.com/DavidKarlas/MonoDevelop.MicroFramework): AddIn for MonoDevelop/Xamarin Studio for developing micro controllers with .Net MicroFramework.
 - [MonoDevelop.MSBuildEditor](https://github.com/mhutch/MonoDevelop.MSBuildEditor): Improved MSBuild editing support.
