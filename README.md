@@ -20,6 +20,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [Mono-D](https://github.com/aBothe/Mono-D): Mono-D is a language binding for MonoDevelop for the D Programming language.
 - [monodevelop-addin-mpack-extractor](https://github.com/mrward/monodevelop-addin-mpack-extractor): Simple console app that downloads an .mpack file (zip file) and extracts it to a directory.
 - [monodevelop-cake-task-runner](https://github.com/mrward/monodevelop-cake-task-runner): Provides a Cake Task Runner for MonoDevelop and Visual Studio for Mac.
+- [monodevelop-file-service-events-addin](https://github.com/mrward/monodevelop-file-service-events-addin-): FileService events monitor for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-grunt-task-runner](https://github.com/mrward/monodevelop-grunt-task-runner): Provides a Grunt Task Runner for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-gulp-task-runner](https://github.com/mrward/monodevelop-gulp-task-runner): Provides a Gulp Task Runner for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-json-addin](https://github.com/mrward/monodevelop-json-addin): JSON editor addin for MonoDevelop.
@@ -28,12 +29,14 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [MonoDevelop.MicroFramework](https://github.com/DavidKarlas/MonoDevelop.MicroFramework): AddIn for MonoDevelop/Xamarin Studio for developing micro controllers with .Net MicroFramework.
 - [MonoDevelop.MSBuildEditor](https://github.com/mhutch/MonoDevelop.MSBuildEditor): Improved MSBuild editing support.
 - [monodevelop-nuget-extensions](https://github.com/mrward/monodevelop-nuget-extensions): Adds some extra features to the NuGet addin that are not currently built-in. These features are experimental, subject to change, removal.
+- [monodevelop-open-any-folder-addin](https://github.com/mrward/monodevelop-open-any-folder-addin): Provides the ability to open any folder instead of having to create a project.
 - [monodevelop-paket-addin](https://github.com/mrward/monodevelop-paket-addin): Paket addin for MonoDevelop, Xamarin Studio and Visual Studio for Mac.
 - [monodevelop-path-env-variable-addin](https://github.com/mrward/monodevelop-path-env-variable-addin): Provides a way to define a custom PATH environment variable for MonoDevelop.
 - [monodevelop-powershell-addin](https://github.com/mrward/monodevelop-powershell-addin): Provides PowerShell support for MonoDevelop.
 - [MonoDevelop.ResXEditor](https://github.com/Therzok/MonoDevelop.ResXEditor)r: MonoDevelop add-in which enables editing of ResX files with a table interface.
 - [monodevelop-task-runner-addin](https://github.com/mrward/monodevelop-task-runner-addin): Provides a Task Runner Explorer for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-template-creator-addin](https://github.com/mrward/monodevelop-template-creator-addin): Template creator for MonoDevelop and Visual Studio for Mac.
+- [monodevelop-typescript-task-runner](https://github.com/mrward/monodevelop-typescript-task-runner): Provides a Task Runner Explorer for MonoDevelop and Visual Studio for Mac.
 - [MonoDevelop.Xwt](https://github.com/sevoku/MonoDevelop.Xwt): Xamarin Studio / MonoDevelop addin for the Xwt cross-platform UI toolkit.
 - [ShowInGithub](https://github.com/slluis/ShowInGithub): Add-in for MonoDevelop which can be used to jump to a source code line in Github.
 - [Visual-Studio-for-Mac-ResxEditor](https://github.com/jzeferino/Visual-Studio-for-Mac-ResxEditor): Resx editor for Visual Studio for Mac / Monodevelop.
