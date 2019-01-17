@@ -46,6 +46,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [VSMac-CodeDistribution](https://github.com/ademanuele/VSMac-CodeDistribution): A Visual Studio for Mac extension that breaks down how code is distributed between projects in a solution. 
 - [VSMac-CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage): A Visual Studio for Mac code coverage extension. 
 - [VS4Mac-ColorHelper](https://github.com/jsuarezruiz/VS4Mac-ColorHelper): Is a Visual Studio for macOS addin to add some color helper tools.
+- [VS4Mac SkiaSharp Fiddle](https://github.com/jsuarezruiz/VS4Mac-SkiaSharpFiddle): Is a SkiaSharp playground - just like https://fiddle.skia.org, but inside VS4Mac!.
 - [VS4Mac.SolutionName](https://github.com/DreamTeamMobile/VS4Mac.SolutionName): Extension for Visual Studio for Mac to show currently opened solution.
 - [XamarinStudio.RedthsAddin](https://github.com/Redth/XamarinStudio.RedthsAddin): Extensions for MonoDevelop/Xamarin Studio to improve productivity. Obliterate Output Paths Nukes your solution/project IntermediateOutputPath and OutputDirectory folders to completely clean it out.
 - [XAMLator](https://github.com/ylatuya/XAMLator): Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!.
