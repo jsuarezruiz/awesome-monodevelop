@@ -14,6 +14,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 
 - [editorconfig-monodevelop](https://github.com/mikerochip/editorconfig-monodevelop): EditorConfig plugin for MonoDevelop and Visual Studio for Mac.
 - [Gorilla Player](https://grialkit.com/gorilla-player/): Xamarin Forms Live Preview on Devices and Emulators.
+- [DefaultDesigner](https://github.com/colbylwilliams/DefaultDesigner): Xamarin Studio & Visual Studio for Mac add-in to open xib and storyboard files with Xcode Interface Builder by default.
 - [LiveXAML](http://www.livexaml.com): Whenever you save any XAML file, it automatically updates the running application. 
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
 - [Mutatio](https://github.com/yuv4ik/Mutatio): Visual Studio for Mac add-in/extension for converting old PCLs to .NET Standard 2.0 targeting projects automatically.
@@ -21,6 +22,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [monodevelop-addin-mpack-extractor](https://github.com/mrward/monodevelop-addin-mpack-extractor): Simple console app that downloads an .mpack file (zip file) and extracts it to a directory.
 - [monodevelop-cake-task-runner](https://github.com/mrward/monodevelop-cake-task-runner): Provides a Cake Task Runner for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-file-service-events-addin](https://github.com/mrward/monodevelop-file-service-events-addin-): FileService events monitor for MonoDevelop and Visual Studio for Mac.
+- [MonoDevelop.Gendarme](https://github.com/anaselhajjaji/MonoDevelop.Gendarme): It integrates the static analyzer Gendarme into MonoDevelop and Visual Studio for macOS.
 - [monodevelop-grunt-task-runner](https://github.com/mrward/monodevelop-grunt-task-runner): Provides a Grunt Task Runner for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-gulp-task-runner](https://github.com/mrward/monodevelop-gulp-task-runner): Provides a Gulp Task Runner for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-json-addin](https://github.com/mrward/monodevelop-json-addin): JSON editor addin for MonoDevelop.
@@ -37,20 +39,24 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [monodevelop-task-runner-addin](https://github.com/mrward/monodevelop-task-runner-addin): Provides a Task Runner Explorer for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-template-creator-addin](https://github.com/mrward/monodevelop-template-creator-addin): Template creator for MonoDevelop and Visual Studio for Mac.
 - [monodevelop-typescript-task-runner](https://github.com/mrward/monodevelop-typescript-task-runner): Provides a Task Runner Explorer for MonoDevelop and Visual Studio for Mac.
+- [monodevelop-wakatime](https://github.com/CodeCavePro/monodevelop-wakatime): WakaTime is a productivity & time tracking tool for programmers. Once the WakaTime plugin is installed, you get a dashboard with reports about your programming by time, language, project, and branch.
 - [MonoDevelop.Xwt](https://github.com/sevoku/MonoDevelop.Xwt): Xamarin Studio / MonoDevelop addin for the Xwt cross-platform UI toolkit.
 - [ShowInGithub](https://github.com/slluis/ShowInGithub): Add-in for MonoDevelop which can be used to jump to a source code line in Github.
 - [Visual-Studio-for-Mac-ResxEditor](https://github.com/jzeferino/Visual-Studio-for-Mac-ResxEditor): Resx editor for Visual Studio for Mac / Monodevelop.
 - [vsmacdeepclean](https://github.com/yuv4ik/vsmacdeepclean): Is a Visual Studio for macOS add-in / extension that let you easily clean projects, NuGet, Xamarin and VS cache without leaving the IDE.
-- [VSMac-AssetManager](https://github.com/ademanuele/VSMac-AssetManager): A Visual Studio for Mac extension for importing/removing image assets from Xamarin.Android and Xamarin.iOS projects. 
-- [VSMac-ClassDiagram](https://github.com/ademanuele/VSMac-ClassDiagram): A Visual Studio for Mac extension that provides an interactive class diagram for loaded solutions.
-- [VSMac-CodeDistribution](https://github.com/ademanuele/VSMac-CodeDistribution): A Visual Studio for Mac extension that breaks down how code is distributed between projects in a solution. 
-- [VSMac-CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage): A Visual Studio for Mac code coverage extension. 
-- [VS4Mac-ColorHelper](https://github.com/jsuarezruiz/VS4Mac-ColorHelper): Is a Visual Studio for macOS addin to add some color helper tools.
+- [VSMac AssetManager](https://github.com/ademanuele/VSMac-AssetManager): A Visual Studio for Mac extension for importing/removing image assets from Xamarin.Android and Xamarin.iOS projects. 
+- [VSMac ClassDiagram](https://github.com/ademanuele/VSMac-ClassDiagram): A Visual Studio for Mac extension that provides an interactive class diagram for loaded solutions.
+- [VSMac CodeDistribution](https://github.com/ademanuele/VSMac-CodeDistribution): A Visual Studio for Mac extension that breaks down how code is distributed between projects in a solution. 
+- [VSMac CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage): A Visual Studio for Mac code coverage extension. 
+- [VS4Mac ColorHelper](https://github.com/jsuarezruiz/VS4Mac-ColorHelper): Is a Visual Studio for macOS addin to add some color helper tools.
 - [VS4Mac SkiaSharp Fiddle](https://github.com/jsuarezruiz/VS4Mac-SkiaSharpFiddle): Is a SkiaSharp playground - just like https://fiddle.skia.org, but inside VS4Mac!.
-- [VS4Mac.SolutionName](https://github.com/DreamTeamMobile/VS4Mac.SolutionName): Extension for Visual Studio for Mac to show currently opened solution.
+- [VS4Mac SolutionName](https://github.com/DreamTeamMobile/VS4Mac.SolutionName): Extension for Visual Studio for Mac to show currently opened solution.
+- [VS4Mac Sweeper](https://github.com/jsuarezruiz/VS4Mac-Sweeper): VS4Mac addin with functionality related to cleaning the output.
 - [XamarinStudio.RedthsAddin](https://github.com/Redth/XamarinStudio.RedthsAddin): Extensions for MonoDevelop/Xamarin Studio to improve productivity. Obliterate Output Paths Nukes your solution/project IntermediateOutputPath and OutputDirectory folders to completely clean it out.
 - [XAMLator](https://github.com/ylatuya/XAMLator): Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!.
 - [XCodeCleaner.Addin](https://github.com/g0rdan/XCodeCleaner.Addin): The plugin for Visual Studio for Mac. It helps clean Xcode cache folders directly from vs4mac.
+- [xs-material-icons-generator](https://github.com/interisti/xs-material-icons-generator): This plugin help you to set material design icons to your Android project.
+- [XSVim](https://github.com/nosami/XSVim): Vim emulation layer for Xamarin Studio / Visual Studio for Mac.
 
 ## Project Templates
 
