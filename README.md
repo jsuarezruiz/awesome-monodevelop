@@ -49,6 +49,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [VSMac CodeDistribution](https://github.com/ademanuele/VSMac-CodeDistribution): A Visual Studio for Mac extension that breaks down how code is distributed between projects in a solution. 
 - [VSMac CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage): A Visual Studio for Mac code coverage extension. 
 - [VS4Mac ColorHelper](https://github.com/jsuarezruiz/VS4Mac-ColorHelper): Is a Visual Studio for macOS addin to add some color helper tools.
+- [VS4Mac-OpenTerminal](https://github.com/jsuarezruiz/VS4Mac-OpenTerminal): VS4Mac addin to open a terminal from the IDE.
 - [VS4Mac SkiaSharp Fiddle](https://github.com/jsuarezruiz/VS4Mac-SkiaSharpFiddle): Is a SkiaSharp playground - just like https://fiddle.skia.org, but inside VS4Mac!.
 - [VS4Mac SolutionName](https://github.com/DreamTeamMobile/VS4Mac.SolutionName): Extension for Visual Studio for Mac to show currently opened solution.
 - [VS4Mac Sweeper](https://github.com/jsuarezruiz/VS4Mac-Sweeper): VS4Mac addin with functionality related to cleaning the output.
