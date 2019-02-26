@@ -15,6 +15,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [editorconfig-monodevelop](https://github.com/mikerochip/editorconfig-monodevelop): EditorConfig plugin for MonoDevelop and Visual Studio for Mac.
 - [Gorilla Player](https://grialkit.com/gorilla-player/): Xamarin Forms Live Preview on Devices and Emulators.
 - [DefaultDesigner](https://github.com/colbylwilliams/DefaultDesigner): Xamarin Studio & Visual Studio for Mac add-in to open xib and storyboard files with Xcode Interface Builder by default.
+- [Godot Extension](https://github.com/DavidKarlas/GodotExtension): MonoDevelop/Visual Studio for Mac [Godot](https://godotengine.org) integration.
 - [LiveXAML](http://www.livexaml.com): Whenever you save any XAML file, it automatically updates the running application. 
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
 - [Mutatio](https://github.com/yuv4ik/Mutatio): Visual Studio for Mac add-in/extension for converting old PCLs to .NET Standard 2.0 targeting projects automatically.
