@@ -51,6 +51,7 @@ A curated list of **awesome** Visual Studio for macOS and MonoDevelop addins, to
 - [VSMac CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage): A Visual Studio for Mac code coverage extension. 
 - [VS4Mac ColorHelper](https://github.com/jsuarezruiz/VS4Mac-ColorHelper): Is a Visual Studio for macOS addin to add some color helper tools.
 - [VS4Mac Git History](https://github.com/jsuarezruiz/VS4Mac-GitHistory): Quickly browse the history of a file from any git repository directly from Visual Studio for macOS.
+- [VS4Mac JsonToClass](https://github.com/LuisM000/VS4Mac-JsonToClass): A Visual Studio for macOS addin to generate models (classes) from JSON.
 - [VS4Mac Lottie Player](https://github.com/jsuarezruiz/VS4Mac-LottiePlayer): Is a Visual Studio for macOS addin to Preview Lottie json files.
 - [VS4Mac-OpenTerminal](https://github.com/jsuarezruiz/VS4Mac-OpenTerminal): VS4Mac addin to open a terminal from the IDE.
 - [VS4Mac Samples Importer](https://github.com/jsuarezruiz/VS4Mac-SamplesImporter): Samples Importer is a Visual Studio for macOS addin to explorer and directly open Xamarin samples from the IDE.
